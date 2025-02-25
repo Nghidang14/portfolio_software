@@ -13,7 +13,7 @@ const Header: React.FC = () => {
                     <ul className="text-xl flex space-x-8">
                         <li>
                             <a
-                                href="#" className="text-white hover:bg-yellow-300 px-4 py-2 rounded-md hover:text-2xl">Home
+                                href="/" className="text-white hover:bg-yellow-300 px-4 py-2 rounded-md hover:text-2xl">Home
                             </a>
                         </li>
                         <li>
